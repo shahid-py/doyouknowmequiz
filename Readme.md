@@ -1,6 +1,5 @@
-# Do You Know Me Quiz
-#
-A CLI App quiz about me
-#
-DEMO
+# doyouknowmequiz
+
+
+a CLI app quiz about me
 ![](images/screenshot.png)
